@@ -1,0 +1,8 @@
+@import './base.css';
+
+#app {
+  min-block-size: 100vh;
+  background-color: var(--app-background-color);
+  color: var(--app-color);
+  font-family: var(--font-family-sans-serif);
+}
